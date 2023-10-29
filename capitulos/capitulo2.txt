@@ -1,0 +1,4 @@
+El flujo de trabajo basico con Git consiste en:
+1- Hacer canbios en el repositorio.
+2- A;adir los cambios a la zona de ingresos temporales
+3- haceer un commit de los cambios
